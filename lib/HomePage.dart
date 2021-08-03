@@ -31,7 +31,6 @@ class _HomePageState extends State<HomePage> {
         _recognitions = recognitions;
         _imageHeight = imageHeight;
         _imageWidth = imageWidth;
-        print("Hello world!");
       });
     }
 

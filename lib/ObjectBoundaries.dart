@@ -35,8 +35,6 @@ class ObjectBoundaries extends StatelessWidget {
     }
     // List<Widget> _renderBoxes() {
     //   return results.map((re) {
-    //     // print("Houssem rect");
-    //     // print(re);
     //     var _x = re["rect"]["x"];
     //     var _w = re["rect"]["w"];
     //     var _y = re["rect"]["y"];
